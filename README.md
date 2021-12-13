@@ -1,5 +1,6 @@
 # WIS-MILT
 Script that downloads data from the Water Information System of Japan MLIT.
+
 水文水質データベースから雨量データ等を取得するPythonスクリプト
 
 ## about GUI
